@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'BentonSans-Bold';
+    src: url('fonts/BentonSans-Bold.eot');
+    src: url('fonts/BentonSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BentonSans-Bold.woff') format('woff'),
+        url('fonts/BentonSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BentonSans-Regular';
+    src: url('fonts/BentonSans-Regular.eot');
+    src: url('fonts/BentonSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BentonSans-Regular.woff') format('woff'),
+        url('fonts/BentonSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BentonSansComp-Regular';
+    src: url('fonts/BentonSansComp-Regular.eot');
+    src: url('fonts/BentonSansComp-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BentonSansComp-Regular.woff') format('woff'),
+        url('fonts/BentonSansComp-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Haydes';
+    src: url('fonts/Haydes.eot');
+    src: url('fonts/Haydes.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Haydes.woff') format('woff'),
+        url('fonts/Haydes.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
