@@ -37,7 +37,7 @@ var swiper = new Swiper(".swiper-technology", {
 var swiper = new Swiper(".swiper-services", {
     spaceBetween: 30,    
     slidesPerView: 1,
-    
+    autoHeight: true,
     pagination: {
       el: ".pagination-services",
       clickable: true,      
@@ -66,15 +66,15 @@ var swiper = new Swiper(".swiper-customers", {
     },
     breakpoints: {
     	640: {
-        	slidesPerView: 2,
+        	slidesPerView: 1,
     		spaceBetween: 20,
       	},
       	768: {
-        	slidesPerView: 3,
+        	slidesPerView: 1,
         	spaceBetween: 20,
       	},
       	1024: {
-        	slidesPerView: 3,
+        	slidesPerView: 1,
         	spaceBetween: 30,
     	},
     },
